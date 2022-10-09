@@ -45,3 +45,10 @@ body {
 #container h1 {
   font-size: 1.4em;
 }
+
+footer {
+  text-align: center;
+  padding: .5em;
+  color: white;
+  background-color: #555;
+}
